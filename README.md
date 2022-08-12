@@ -9,6 +9,6 @@
 Работал в инвестиционном фонде и в проекте [Crazy Panda Village](https://crazypanda.io/ru.html), 
 летом 2022 года начал изучать Java на курсе [JavaRush](https://javarush.ru)
 
-Имею свое портфолио - 
+Имею свое портфолио - https://t.me/YakovPortfolio
 
 Сюда же выкладываю всяческие интересные, изобретенные в закромах, вещи
