@@ -1,16 +1,14 @@
-
-ㅤ             |  ㅤ
-:-------------------------:|:-------------------------:
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Monoton&size=40&duration=800&color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=180&lines=Hello+World!;I'm+Yakov;Java+Developer)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IooEWREYooI&layout=compact&theme=radical&show_icons=true) 
-
+<div style="display: flex; gap: 10px; justify-content: center; padding: 20px">
+  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=40&duration=500&color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=400&height=160&lines=Hello+World!;I'm+Yakov;Java+Developer" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IooEWREYooI&layout=compact&theme=radical&show_icons=true">
+</div>
 
 ![Java](https://img.shields.io/badge/java-FF3300.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
-![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white) 
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
