@@ -1,4 +1,4 @@
-<div style="display: flex; gap: 10px; justify-content: center; padding: 20px">
+<div style="display: flex; gap: 10px; justify-content: center; padding: 120px">
   <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=40&duration=500&color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=400&height=160&lines=Hello+World!;I'm+Yakov;Java+Developer" alt="Typing SVG" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IooEWREYooI&layout=compact&theme=radical&show_icons=true">
 </div>
