@@ -1,7 +1,7 @@
 
 ㅤ             |  ㅤ
 :-------------------------:|:-------------------------:
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Monoton&size=40&duration=500&color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=180&lines=Hello+World!;I'm+Yakov;Java+Developer)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IooEWREYooI&layout=compact&theme=radical&show_icons=true) 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Monoton&size=40&duration=800&color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=180&lines=Hello+World!;I'm+Yakov;Java+Developer)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IooEWREYooI&layout=compact&theme=radical&show_icons=true) 
 
 
 ![Java](https://img.shields.io/badge/java-FF3300.svg?style=for-the-badge&logo=openjdk&logoColor=white)
