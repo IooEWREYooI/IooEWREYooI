@@ -2,21 +2,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=40&duration=500&color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=400&height=160&lines=Hello+World!;I'm+Yakov;Java+Developer" alt="Typing SVG" />
 </div>
 
-<div style="display: flex;">
-    <div>
-        <img src="https://leetcard.jacoblin.cool/ox_yakov?ext=activity" alt="LeetCard"/>
-    </div>
-    <div>
-        <img src="https://img.shields.io/badge/java-FF3300.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white"/>
-        <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-        <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-    </div>
-</div>
-
 ![Java](https://img.shields.io/badge/java-FF3300.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
@@ -30,4 +15,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
-[//]: # (![]&#40;https://leetcard.jacoblin.cool/ox_yakov?ext=activity&#41;)
+![](https://leetcard.jacoblin.cool/ox_yakov?ext=activity)
