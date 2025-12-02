@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white" alt="Apache Groovy" />
   </a>
   <a target="_blank">
-    <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+    <img src="https://img.shields.io/badge/apache%20maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
   </a>
   <a target="_blank">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
