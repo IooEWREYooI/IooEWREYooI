@@ -1,6 +1,14 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=40&duration=500&color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=400&height=160&lines=Hello+World!;I'm+Yakov;Java+Developer" alt="Typing SVG" />
-</div>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Monoton&size=40&duration=500&color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=400&height=160&lines=Hello+World!;I'm+Yakov;Java+Developer" target="_blank">
+    <img title="Hi, My Name is Yakov!" alt="Naming" src="https://readme-typing-svg.demolab.com?font=Monoton&size=40&duration=500&color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=400&height=160&lines=Hello+World!;I'm+Yakov;Java+Developer" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcard.jacoblin.cool/ox_yakov?ext=activity" target="_blank">
+    <img title="Leetcode stats" alt="Leetcode" src="https://leetcard.jacoblin.cool/ox_yakov?ext=activity" />
+  </a>
+</p>
 
 ![Java](https://img.shields.io/badge/java-FF3300.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -14,5 +22,3 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-
-![](https://leetcard.jacoblin.cool/ox_yakov?ext=activity)
