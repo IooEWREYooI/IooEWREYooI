@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Monoton&size=40&duration=500&color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=400&height=160&lines=Hello+World!;I'm+Yakov;Java+Developer" target="_blank">
+  <a href="https://readme-typing-svg.demolab.com?font=Monoton&size=40&duration=1500&color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=400&height=160&lines=Hello+World!;I'm+Yakov;Java+Developer" target="_blank">
     <img title="Hi, My Name is Yakov!" alt="Naming" src="https://readme-typing-svg.demolab.com?font=Monoton&size=40&duration=500&color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=400&height=160&lines=Hello+World!;I'm+Yakov;Java+Developer" />
   </a>
 </p>
@@ -57,5 +57,3 @@
     <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515" alt="YAML" />
   </a>
 </p>
-
----
