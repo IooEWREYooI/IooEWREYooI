@@ -1,5 +1,8 @@
-<div style="display: flex;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=40&duration=500&color=00CC00&center=true&vCenter=true&multiline=true&repeat=false&width=400&height=160&lines=Hello+World!;I'm+Yakov;Java+Developer" alt="Typing SVG" />
+</div>
+
+<div>
     <img src="https://leetcard.jacoblin.cool/ox_yakov?ext=activity" alt="LeetCard"/>
 </div>
 
